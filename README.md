@@ -195,7 +195,7 @@ This project collection is available for educational and development purposes.
 
 ## 👤 Author
 
-[Your Name/Organization]
+[Breno Kern]
 
 ---
 
